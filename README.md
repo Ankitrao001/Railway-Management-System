@@ -52,7 +52,7 @@ API_KEY=your_admin_api_key
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/Anshg6130/IRCTC_API_WorkIndia.git
+   git clone https://github.com/Ankitrao001/IRCTC_API_WorkIndia.git
    cd irctc-railway-management
    ```
    
